@@ -12,3 +12,4 @@ Fitri's Achievements
 
 ###### Fitri's Motto
 "Life is too short to not be curious."`
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
