@@ -12,5 +12,7 @@ Fitri's Achievements
 
 ###### Fitri's Motto
 "Life is too short to not be curious."`
-git init
+```
+$ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
